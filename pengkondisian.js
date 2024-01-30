@@ -8,9 +8,3 @@ if(x % 2 == 0){
 } else {
     alert("data bukan angka");
 }
-
-if (confirm("apakan anda manusia")) {
-    location = "http://google.com";
-} else {
-    alert("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
-}
